@@ -17,9 +17,6 @@ This project is a static website built using HTML and CSS. The primary objective
     - [Installation](#installation)
   - [Usage](#usage)
   - [Built With](#built-with)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgments](#acknowledgments)
   - [Contact](#contact)
 
 ## Features
